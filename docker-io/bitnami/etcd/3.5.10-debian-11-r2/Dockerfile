@@ -1,0 +1,1 @@
+FROM docker.io/bitnami/etcd:3.5.10-debian-11-r2
